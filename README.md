@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # Introducción de la ingenieria de sistemas 
 
